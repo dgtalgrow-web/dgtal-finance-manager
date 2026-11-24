@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="cover.jpg" alt="Dgtal Finance Manager" width="100%">
+<img src="cover.jpg" alt="Dgtal Finance Manager dashboard" width="100%">
 
 # Dgtal Finance Manager
 
-**One calm workspace for invoices, income and expenses, clients, projects, team and tax.**
-Built for freelancers, agencies and small businesses.
+**See your whole business in one place: money, invoices, clients, projects, tasks, team and deadlines.**
+A web app for freelancers, agencies and small businesses.
 
-[**Try the live demo**](https://finance.dgtalgrow.com/) &nbsp;·&nbsp; [Website](https://management.dgtalgrow.com/) &nbsp;·&nbsp; [Android app](../../releases/latest) &nbsp;·&nbsp; [Product Hunt](https://www.producthunt.com/products/dgtal-finance-manager) &nbsp;·&nbsp; [G2](https://www.g2.com/products/dgtal-finance-manager/reviews)
+[**Try the live demo**](https://finance.dgtalgrow.com/) &nbsp;·&nbsp; [Website](https://management.dgtalgrow.com/) &nbsp;·&nbsp; [Product Hunt](https://www.producthunt.com/products/dgtal-finance-manager) &nbsp;·&nbsp; [G2](https://www.g2.com/products/dgtal-finance-manager/reviews)
 
 </div>
 
@@ -25,68 +25,114 @@ Open **[finance.dgtalgrow.com](https://finance.dgtalgrow.com/)** and press one o
 | **Finance** | Invoices, income, expenses, payables and receivables |
 | **Team Member** | Sees clients and projects, works on tasks |
 | **Viewer** | Read-only |
-| **Client portal** | What your client sees: shared projects, updates and invoices |
+| **Client portal** | What your client sees: the projects and invoices you share with them |
 
-> The demo is a **shared workspace** with sample data. Everyone sees the same data, so please do not type any real or personal information into it. Account and billing changes are switched off in demo sessions.
-> The host shows a short security check ("One moment, please...") for a few seconds on the first visit.
+> The demo is a **shared workspace** with sample data. Everyone sees the same data, so please do not type any real or personal information into it. Account and billing changes are switched off in demo sessions. The host shows a short security check ("One moment, please...") for a few seconds on the first visit.
 
-## Screenshots
+---
 
-| | |
-|---|---|
-| ![Dashboard](screenshot-01-dashboard.jpg) | ![Income and expenses](screenshot-02-income-expenses.jpg) |
-| **Dashboard**: balances, cash flow, "where is my money?" | **Income and expenses** across accounts |
-| ![Invoices](screenshot-03-invoices.jpg) | ![Clients](screenshot-04-clients.jpg) |
-| **Invoices** with status and PDF export | **Clients** and receivables |
-| ![Finance overview](screenshot-05-finance-overview.jpg) | ![Projects](screenshot-06-projects.jpg) |
-| **Finance overview** | **Projects and orders** |
+## What you get, section by section
 
-**Calendar** of due dates
+### 1. Dashboard: know where you stand in ten seconds
+![Dashboard](screenshot-01-dashboard.jpg)
 
+Your total balance across every account, this month's income and expenses, net cash flow, what clients still owe you, what you owe, your estimated tax and active projects. An income-vs-expense chart and a recent-activity list show how the month is going.
+
+**Why it helps:** no more opening the bank app, a spreadsheet and your invoices just to answer "how are we doing?".
+
+### 2. Ask Your Business: questions in plain language
+![Ask Your Business](screenshot-08-ask-your-business.jpg)
+
+Ask "Which clients owe me money?", "What are my biggest expenses?" or "Which invoices are overdue?" and get an answer from your own records. Answers come only from your workspace, and your data is not shared outside your account.
+
+**Why it helps:** you get answers without building reports or learning filters.
+
+### 3. Accounts: every account in one view
+![Accounts](screenshot-09-accounts.jpg)
+
+Bank, cash and payment-gateway accounts with their balances and one net-worth total.
+
+**Why it helps:** you see how much money you really have, and where it sits.
+
+### 4. Invoices: create, send and download as PDF
+![Invoices](screenshot-03-invoices.jpg)
+
+Invoice statuses (draft, sent, overdue, paid) with totals at the top. Select an invoice to preview it, then **Download PDF** or **Send**.
+
+**Why it helps:** professional invoices in minutes, and you always know which ones are still unpaid.
+
+### 5. Receivable: chase what you are owed
+![Receivable](screenshot-10-receivable.jpg)
+
+Total outstanding split into on time and overdue, with days late per item and a **Record payment** button for part or full payments.
+
+**Why it helps:** late payments stop hiding in your inbox.
+
+### 6. Fixed expenses and salaries: never miss a due date
+![Fixed expenses](screenshot-11-fixed-expenses.jpg)
+
+Recurring bills and team salaries show the next due date and a countdown. The **Mark paid** button opens five days before the due date, and a reminder popup appears each morning and evening for items that are due soon.
+
+**Why it helps:** rent, hosting and salaries get paid on time, without a separate reminder app.
+
+### 7. Clients: who pays, who owes, who is a lead
+![Clients](screenshot-04-clients.jpg)
+
+Each client card shows lifetime revenue, the outstanding amount, how many projects are active and the status (Active, Lead, Inactive).
+
+**Why it helps:** you can see your best clients and your slow payers at a glance.
+
+### 8. Projects and orders: a board for every job
+![Projects](screenshot-06-projects.jpg)
+
+A board (Planning, In progress, In review, Completed) or a list, with the client, paid percentage and due date on every card.
+
+**Why it helps:** you see which jobs are moving and which are paid.
+
+### 9. Tasks: keep the team on the same page
+![Tasks](screenshot-12-tasks.jpg)
+
+A task board by status or by team member, with priorities and filters such as My Tasks, Overdue, Due Today and High Priority.
+
+**Why it helps:** nothing falls through the cracks, and everyone knows what is next.
+
+### 10. Calendar: every deadline in one place
 ![Calendar](screenshot-07-calendar.jpg)
 
-All screenshots use sample data.
+Project deadlines, tasks, payables, receivables, invoices, follow-ups, reminders, upcoming fixed expenses and tax dates appear on one calendar, pulled from your existing data. There is no separate calendar to maintain.
 
-## What it does
+**Why it helps:** one look shows what needs you today and what is coming up.
 
-- **Dashboard**: total balance, income vs expense, net cash flow, spending by account.
-- **Money**: accounts, income, expenses, transfers, categories, multi-currency, fixed expenses and recurring items.
-- **Fixed bills and salaries with due dates**: a live countdown, a "Mark paid" button that unlocks five days before the due date, and a reminder popup each morning and evening.
-- **Invoices**: create, send, mark paid or overdue, record payments, branded **PDF** export, recurring invoices.
-- **Clients, projects and services**: receivables, payables, follow-ups and project status.
-- **Tax estimator**: country-aware (Bangladesh built in, other countries through rule sets), payments and settings.
-- **Team**: members, salary tracking, roles and permissions, invitations, tasks, team chat.
-- **Client portal**: clients sign in with a one-time email code and see only the projects and invoices shared with them.
-- **Ask Your Business**: an AI assistant that answers questions about your own data (an offline mock provider is built in).
-- **Recycle bin** for every delete, saved views, command palette, reports, notifications and a calendar.
-- **Plans and trial**: Starter, Professional and Business plan limits with a 14-day trial.
+### 11. Team access: give people exactly the access they need
+![Team access](screenshot-13-team-access.jpg)
 
-## Roles and permissions
+Choose which team members can log in and exactly what each role can see and do (Admin, Manager, Finance, Team Member, Viewer). A recent login activity list shows who signed in.
 
-Seven built-in views of the same workspace: Owner, Admin, Manager, Finance, Project Manager, Team Member and Viewer. Permissions are checked on the server for every action, and the owner can adjust them per team member.
+**Why it helps:** your team works in the same system without seeing money they should not see.
+
+---
+
+## Also included
+
+- **Client portal:** clients sign in with a one-time email code and see only the projects and invoices you share with them.
+- **Income, expenses, transfers and categories**, with multi-currency support.
+- **Tax estimator** with country rules (Bangladesh built in) and tax payment records.
+- **Team salaries** that flow into fixed expenses.
+- **Recycle bin** for every delete, saved views, a command palette, reports and notifications.
+- **Plans and trial:** Starter, Professional and Business limits with a 14-day trial.
 
 ## Built with
 
-Node.js and Express, PostgreSQL (plain SQL migrations, no ORM), React 18 with Vite 6, Socket.IO for team chat, pdfkit for invoices. Multi-tenant by design: every record belongs to a workspace and every query is scoped to it.
+Node.js and Express, PostgreSQL (plain SQL migrations, no ORM), React 18 with Vite 6, Socket.IO for team chat and pdfkit for invoices. It is multi-tenant: every record belongs to a workspace and every query is scoped to it.
 
-- Passwords hashed with bcrypt, email one-time codes, session cookies, rate limiting, Helmet security headers, parameterised SQL.
+- Passwords hashed with bcrypt, email one-time codes, session cookies, rate limiting, Helmet security headers and parameterised SQL.
 - A recycle-bin restore engine that only writes allow-listed tables and never overwrites existing rows.
-- 27 automated unit tests, CI with a database migration check, and an `npm audit` with no known vulnerabilities at the time of release.
+- 27 automated unit tests and a CI database migration check.
 - Deploys with Docker, on a VPS or on cPanel.
-
-## Android app
-
-A lightweight Android app that opens the web app full screen, with file upload and PDF download support.
-
-1. Download **`DgtalFinanceManager-1.1.0.apk`** from the [latest release](../../releases/latest).
-2. Open it on your phone and allow installation from this source when Android asks.
-3. Sign in or tap a demo button.
-
-The APK is signed by DGTAL GROW. It needs an internet connection because the app is the live web app.
 
 ## Source code
 
-This repository is a **showcase**: screenshots, feature overview, demo and the Android app. **The source code is not published here.** The full source (Node.js, React, PostgreSQL, Docker files, setup guide and tests) is offered as a licence through the Vibe96 marketplace, and I can also help you run it for your business. To get in touch, reach out through [management.dgtalgrow.com](https://management.dgtalgrow.com/).
+This repository is a **showcase**: screenshots, a feature overview and a live demo. **The source code is not published here.** The full source (Node.js, React, PostgreSQL, Docker files, setup guide and tests) is offered as a licence through the Vibe96 marketplace, and I can also help you run it for your business. To get in touch, reach out through [management.dgtalgrow.com](https://management.dgtalgrow.com/).
 
 ## Links
 
@@ -100,4 +146,4 @@ This repository is a **showcase**: screenshots, feature overview, demo and the A
 
 ---
 
-<sub>&copy; DGTAL GROW. All rights reserved. The name, logo, screenshots and text in this repository may not be reused without permission. The Android app is provided as is.</sub>
+<sub>&copy; DGTAL GROW. All rights reserved. The name, logo, screenshots and text in this repository may not be reused without permission. Screenshots show sample data from the shared demo workspace.</sub>
